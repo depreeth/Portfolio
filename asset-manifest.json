@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9839287f.css",
-    "main.js": "/Portfolio/static/js/main.e15a455b.js",
+    "main.css": "/Portfolio/static/css/main.c6cff574.css",
+    "main.js": "/Portfolio/static/js/main.7e66879c.js",
     "static/media/c++.png": "/Portfolio/static/media/c++.666af1b3598c92045b63.png",
     "static/media/python.png": "/Portfolio/static/media/python.dea924d737bb84eb9ce3.png",
     "static/media/apache.png": "/Portfolio/static/media/apache.459ecb32f6230d0424ef.png",
     "static/media/profile-pic.png": "/Portfolio/static/media/profile-pic.c0fe2ee13cfbf072adc6.png",
     "static/media/sklearn.png": "/Portfolio/static/media/sklearn.bfb987221ae5f83d782b.png",
     "static/media/opencv.png": "/Portfolio/static/media/opencv.46804006166eb93c5271.png",
-    "static/media/dhaivat-pic.jpg": "/Portfolio/static/media/dhaivat-pic.3c8504994b2e57ce3710.jpg",
     "static/media/crypto.jpeg": "/Portfolio/static/media/crypto.81f26b7fb8b32abb126c.jpeg",
     "static/media/numpy.png": "/Portfolio/static/media/numpy.aa70036f5d290790701a.png",
     "static/media/pandas.png": "/Portfolio/static/media/pandas.c6033746576eeae58df4.png",
@@ -27,11 +26,11 @@
     "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Portfolio/index.html",
-    "main.9839287f.css.map": "/Portfolio/static/css/main.9839287f.css.map",
-    "main.e15a455b.js.map": "/Portfolio/static/js/main.e15a455b.js.map"
+    "main.c6cff574.css.map": "/Portfolio/static/css/main.c6cff574.css.map",
+    "main.7e66879c.js.map": "/Portfolio/static/js/main.7e66879c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9839287f.css",
-    "static/js/main.e15a455b.js"
+    "static/css/main.c6cff574.css",
+    "static/js/main.7e66879c.js"
   ]
 }
