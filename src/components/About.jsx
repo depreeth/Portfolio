@@ -14,23 +14,21 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          I’m Dhaivat Vipat, I am from Ujjain, Madhya Pradesh. I have a good
+          experience in Data Science and a niche in blockchain development.I'm
+          extremely passionate about my work and believe in quality with
+          specific attention to details. I'm a tech fanatic and a laptop
+          enthusiast.I am currently working with Generative Adversarial Networks
+          and Decentralized Applications
         </p>
 
         <br />
 
         <p className="text-xl mb-32">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I am really ambitious about solving problems using my skills and this
+          motivates me to learn and grasp new things quickly. I am looking
+          forward to gain more experience and accomplishments in my future
+          ahead.If you want to collaborate with me, please feel free to contact.
         </p>
       </div>
     </div>
