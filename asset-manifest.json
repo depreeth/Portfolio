@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ed474d50.css",
-    "main.js": "/Portfolio/static/js/main.19430108.js",
+    "main.css": "/Portfolio/static/css/main.6e094f45.css",
+    "main.js": "/Portfolio/static/js/main.b50b8249.js",
+    "static/media/Posaidon.png": "/Portfolio/static/media/Posaidon.75a1128219155a7bcc28.png",
     "static/media/c++.png": "/Portfolio/static/media/c++.666af1b3598c92045b63.png",
     "static/media/python.png": "/Portfolio/static/media/python.dea924d737bb84eb9ce3.png",
     "static/media/apache.png": "/Portfolio/static/media/apache.459ecb32f6230d0424ef.png",
@@ -10,15 +11,15 @@
     "static/media/opencv.png": "/Portfolio/static/media/opencv.46804006166eb93c5271.png",
     "static/media/crypto.jpeg": "/Portfolio/static/media/crypto.81f26b7fb8b32abb126c.jpeg",
     "static/media/numpy.png": "/Portfolio/static/media/numpy.aa70036f5d290790701a.png",
-    "static/media/pandas.png": "/Portfolio/static/media/pandas.c6033746576eeae58df4.png",
     "static/media/flipped.jpeg": "/Portfolio/static/media/flipped.746cb6a583ce934eb164.jpeg",
     "static/media/postgresql.png": "/Portfolio/static/media/postgresql.52d31cc1fd8306d5ff52.png",
-    "static/media/tensorflow.png": "/Portfolio/static/media/tensorflow.a9403f3ea5a5319c955a.png",
     "static/media/heroku.png": "/Portfolio/static/media/heroku.92a1a4ed0c8f0b8d15d7.png",
+    "static/media/sql_low.png": "/Portfolio/static/media/sql_low.1548570943de1ccb2bcd.png",
     "static/media/register.jpeg": "/Portfolio/static/media/register.387ad7a9481e52b86c45.jpeg",
-    "static/media/sql.jpg": "/Portfolio/static/media/sql.e7f2a4c60d4052c19ddb.jpg",
     "static/media/c.png": "/Portfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/panda.jpg": "/Portfolio/static/media/panda.9f267ee501e253edf6e8.jpg",
     "static/media/truffle.png": "/Portfolio/static/media/truffle.a1cb065a60967ae4d62b.png",
+    "static/media/tensorflow_low.png": "/Portfolio/static/media/tensorflow_low.76b2d6a4c3a6ad2ffed6.png",
     "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/solidity.png": "/Portfolio/static/media/solidity.0a67fa7b203c77f85b08.png",
     "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -26,11 +27,11 @@
     "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Portfolio/index.html",
-    "main.ed474d50.css.map": "/Portfolio/static/css/main.ed474d50.css.map",
-    "main.19430108.js.map": "/Portfolio/static/js/main.19430108.js.map"
+    "main.6e094f45.css.map": "/Portfolio/static/css/main.6e094f45.css.map",
+    "main.b50b8249.js.map": "/Portfolio/static/js/main.b50b8249.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed474d50.css",
-    "static/js/main.19430108.js"
+    "static/css/main.6e094f45.css",
+    "static/js/main.b50b8249.js"
   ]
 }
