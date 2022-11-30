@@ -36,7 +36,7 @@ const Card = ({item,name,desc,title,style,one,two,three}) => {
       <div>
         
       <section {...getCollapseProps()}>
-      <h2 className=' p-2 font-black'>{title}</h2>
+      <h2 className=' p-3 font-black'>{title}</h2>
         <div>{desc}</div>
         <div className=' underline font-bold text-lg'>Achievements/Tasks</div>
         <div className=' font-semibold'>

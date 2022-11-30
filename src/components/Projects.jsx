@@ -6,6 +6,7 @@ import Slider from "react-slick";
 import Crypto from "../assets/crypto.jpeg";
 import Reg from "../assets/register.jpeg";
 import Flipped from "../assets/flipped.jpeg";
+import Posai from "../assets/Posaidon.png";
 
 
 const Projects = () => {
@@ -20,6 +21,10 @@ const Projects = () => {
     },
     {
       id: 3,
+      src: Posai,
+    },
+    {
+      id: 4,
       src: Flipped,
     },
     

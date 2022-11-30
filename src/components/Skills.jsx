@@ -3,19 +3,19 @@ import React from "react";
 import c from "../assets/c.png";
 import cp from "../assets/c++.png";
 import python from "../assets/python.png";
-import django from "../assets/django.png";
-import pandas from "../assets/pandas.png";
+import django from "../assets/django_low.png";
+import pandas from "../assets/panda.jpg";
 import sklearn from "../assets/sklearn.png";
 import github from "../assets/github.png";
 import apache from "../assets/apache.png";
 import numpy from "../assets/numpy.png";
 import postgresql from "../assets/postgresql.png";
 import opencv from "../assets/opencv.png";
-import sql from "../assets/sql.jpg";
+import sql from "../assets/sql_low.png";
 import solidity from "../assets/solidity.png";
 import truffle from "../assets/truffle.png";
-import tenserflow from "../assets/tensorflow.png";
-// import seaborn from "../assets/seaborn.png";
+import tenserflow from "../assets/tensorflow_low.png";
+import seaborn from "../assets/seaborn.png";
 import heroku  from "../assets/heroku.png";
 
 
@@ -107,7 +107,7 @@ const Skills = () => {
     },
     {
       id: 15,
-      src: github,
+      src: seaborn,
       title: "Seaborn",
       style: "shadow-gray-400",
     },
