@@ -34,7 +34,7 @@ const SocialLinks = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://docs.google.com/document/d/1mSJRrr9A1R5PybDQKBVnGxOcHltZe0d9rJMCaF9rsDo/edit",
+      href: "https://drive.google.com/file/d/1OoSGu_Yq9uiOwb5E-jUZCEHMY-xEVbM2/view?usp=sharing",
       style: "bg-yellow-500",
       download: true,
     },
